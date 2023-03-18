@@ -2,7 +2,7 @@
 - 👀 I’m interested in classical guitar, piano, and badminton. 
 - 🌱 I’m currently learning Python Machine Learning. 
 - 💞️ I’m looking to collaborate on Python projects. 
-- 📫 How to reach me: don't. 
+- 📫 How to reach me: hmu @ srijankancherla@gmail.com
 
 <!---
 SrijanKancherla/SrijanKancherla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
